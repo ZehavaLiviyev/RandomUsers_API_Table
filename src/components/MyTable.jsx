@@ -9,11 +9,11 @@ import Title from './Title';
 const NUMBER_PER_PAGE = 10;
 const useStyles = makeStyles({
     root: {
-      color: 'wheat',
+      color: '#422f17',
       fontFamily: 'Luxurious Roman',
     },
     card: {
-      backgroundColor: '#1e5a81d4'
+      backgroundColor: '#999f80'
     }
   });
 function MyTable() {

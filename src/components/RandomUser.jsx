@@ -7,7 +7,7 @@ const NUMBER_PER_PAGE = 10;
 
 const useStyles = makeStyles({
     root: {
-        color: 'wheat',
+        color: '#422f17',
         fontFamily: 'Luxurious Roman',
     }
 });

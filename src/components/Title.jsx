@@ -4,11 +4,11 @@ import { makeStyles } from '@material-ui/core';
 
 const useStyles = makeStyles({
   root: {
-    color: '#1e5a81db',
+    color: '#6e4f2a',
     fontFamily: 'Luxurious Roman',
   },
   det: {
-    color: '#1e5a81d4',
+    color: '#6e4f2a',
     fontFamily: 'Luxurious Roman',
   }
 });
@@ -20,6 +20,7 @@ function Title() {
   return (
     <div>
       <h1 className={classes.root}>Random Users Table</h1>
+      <hr/>
       <h4 className={classes.det} > Click on the full name for more details </h4>
     </div>
 
