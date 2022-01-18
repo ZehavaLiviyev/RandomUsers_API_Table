@@ -16,7 +16,11 @@
 
 
 ## Screenshot
-https://user-images.githubusercontent.com/82437218/149934633-95e9e1dd-3572-439f-b97d-6582868db5dd.mp4
+
+
+https://user-images.githubusercontent.com/82437218/150006626-9bbc1e75-2efd-47b6-9715-87519154229c.mp4
+
+
 
 ## Tech stack
 - REACT
